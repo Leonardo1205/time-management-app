@@ -1,8 +1,8 @@
 # time-management-app
 
-### O objetivo desta aplicação mobile é o gerenciamento do seu tempo, trazendo mais organização e controle para o seu dia a dia, sendo possível criar atividades especificando o tempo que ela durará, e a partir do momento que você iniciá-la, o cronômetro vai ficar na tela até o momento que a atividade se encerrar, sendo enviada uma mensagem na tela.
+### O objetivo desta aplicação mobile é o gerenciamento do seu tempo, trazendo mais organização e controle para o seu dia a dia, sendo possível criar atividades especificando o tempo que elas durarão, e a partir do momento que você iniciá-la, o cronômetro ficará na tela até o momento que a atividade se encerrar, sendo enviada uma mensagem na tela avisando sobre seu término.
 
-# Paleta de cores utilizada para esta aplicxação:
+# Paleta de cores utilizada para esta aplicação:
 - #1c0b2b
 - #301c41
 - #413b6b
